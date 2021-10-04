@@ -1,1 +1,1 @@
-# Project-C-174
+# PRO-C174-Teacher-Boilerplate
